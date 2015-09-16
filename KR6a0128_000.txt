@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說四人出現世間經
+#+DATE: 2015-08-30 19:32:32.064701
+#+PROPERTY: JUAN 0
